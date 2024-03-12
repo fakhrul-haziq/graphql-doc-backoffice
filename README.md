@@ -44,3 +44,9 @@ This will start a local server where you can interact with the generated GraphQL
 
 For more advanced configurations and usage of MagiDoc, refer to the [MagiDoc documentation](https://github.com/magidoc-org/magidoc).
 
+## Disclaimer
+
+The GraphQL schema remains fixed and will not be modified automatically according to the omni-onboarding-backoffice. Any changes to the schema must be updated manually if necessary.
+
+
+
