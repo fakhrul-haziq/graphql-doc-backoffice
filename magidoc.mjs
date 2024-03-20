@@ -8,7 +8,7 @@ export default {
     options: {
       appTitle: "Medium Article",
       appLogo:
-        "https://seeklogo.com/images/P/Pokemon-logo-497D61B223-seeklogo.com.png",
+        "https://asset.brandfetch.io/idPF9SmwKn/id3BcGnhTM.png?updated=1703746251335",
       pages: [
         {
           title: "Medium Article",
