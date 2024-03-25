@@ -11,7 +11,7 @@ export default {
         "https://asset.brandfetch.io/idPF9SmwKn/id3BcGnhTM.png?updated=1703746251335",
       pages: [
         {
-          title: "Graphql Documentation",
+          title: "omni-onboarding-backoffice-be",
           content: `
 # omni-onboarding-backoffice-be
 This is Graphql Documentation for omni-onboarding-backoffice-be
